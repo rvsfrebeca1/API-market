@@ -14,7 +14,5 @@
 
 # Feito isso, basta conferir as listas de rotas e modelos abaixo
 
-## Para consultar a documentação basta acessar `localhost:3000/`
-
 
 ### ______________________________________________________
