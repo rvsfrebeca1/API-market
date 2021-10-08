@@ -18,8 +18,6 @@
 ### ______________________________________________________
 
 
-![](https://i.imgur.com/xG74tOh.png)
-
 # Desafio Módulo 3 - Back-end
 
 Seu papel é construir uma RESTful API que permita:
