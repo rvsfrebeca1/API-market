@@ -31,7 +31,6 @@ Seu papel é construir uma RESTful API que permita:
 -   Cadastrar produtos
 -   Editar produtos
 -   Remover produtos
--   **EXTRA:** Filtrar produtos por categoria
 
 **Importante: Lembre-se sempre que cada usuário só pode ver e manipular seus próprios dados e seus próprios produtos. Não atender a este pré-requisito é uma falha de segurança gravíssima!**
 
